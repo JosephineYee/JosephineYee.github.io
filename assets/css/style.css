@@ -9,7 +9,10 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Inconsolata", monospace;
+ 
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
   color: #0d1e2d;
 }
 
@@ -23,7 +26,9 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6, .font-heading {
-  font-family: "Raleway", sans-serif;
+  font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
 }
 
 .section {
